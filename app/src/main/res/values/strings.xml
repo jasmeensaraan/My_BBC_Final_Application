@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My BBC Application</string>
+    //open close button of the navigation drawer
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="title-list">
+        <item>Twitter condemned by UN and EU over reporters’ ban</item>
+        <item>Thousands of unedited government JFK assassination files released</item>
+        <item>A third of US executions botched in 2022 - report</item>
+        <item>Nigerian child chess prodigy granted US asylum</item>
+        <item>Jane Fonda: Hollywood star 'feels blessed' her cancer is in remission</item>
+        <item>Starbucks set for walkouts in US over unionisation</item>
+        <item>Former US President Donald Trump launches $99 NFT trading cards</item>
+        <item>Two boaters and a dog rescued after 10 days at sea</item>
+        <item>Idaho student murders: Mother Kristi Goncalves describes 'sleepless nights'</item>
+        <item>NFL: San Francisco 49ers beat Seattle Seahawks 21-13 to seal NFC West title and play-off place</item>
+        <item>Claudine Gay: Harvard University picks first black president</item>
+    </string>
+
+</resources>

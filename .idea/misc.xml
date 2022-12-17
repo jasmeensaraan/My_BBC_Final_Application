@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/add_news.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/content_main.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/fragment_desc.xml" value="0.2" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/help_alert.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/nav_header_main.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/nav_view.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/nes_toolbar.xml" value="0.17572463768115942" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/news_list.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/news_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/layout/row_layout.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/menu/activity_main_drawer.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/menu/main_activity2.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/menu/menu_items.xml" value="0.1" />
+        <entry key="..\:/Users/saraa/AndroidStudioProjects/MyBBCApplication/app/src/main/res/menu/menu_navigation.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
